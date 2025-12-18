@@ -1,4 +1,4 @@
-🚀 Key Features
+## 🚀 Key Features
 
 * Gamified Wake Up: 단순히 버튼을 누르는 게 아니라, '같은 그림 찾기(Memory Match)' 게임을 클리어해야 알람이 해제됩니다.
 * Nagging Notifications: 사용자가 게임을 깰 때까지 30초 간격으로 알림을 계속 보내 기상을 유도합니다.
